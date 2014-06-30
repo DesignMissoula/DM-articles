@@ -3,7 +3,7 @@
 /*
 Plugin Name: DM Articles
 Plugin URI: http://www.designmissoula.com/
-Description: This is not just a plugin, it makes WordPress better.
+Description: This is not just a plugin, it makes WordPress better. GCSAA-Groups Branch
 Author: Bradford Knowlton
 Version: 1.6
 Author URI: http://bradknowlton.com/
